@@ -1,2 +1,5 @@
 1. GIT INIT - Inicializa um Repositório
-
+2. GIT ADD * - Adiciona um repositório
+3. GIT COMMIT -M "SEGUNDO COMMNIT" - ENVIA PARA O REPOSITÓRIO LOCAL
+4. GIT REMOTE .....
+5. GIT PUSH ......

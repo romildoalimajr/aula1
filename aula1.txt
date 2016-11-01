@@ -3,3 +3,12 @@
 3. GIT COMMIT -M "SEGUNDO COMMNIT" - ENVIA PARA O REPOSITÓRIO LOCAL
 4. GIT REMOTE .....
 5. GIT PUSH ......
+
+para modificar o repositório
+
+1. GIT ADD * - Adiciona na área STAGE
+2. GIT COMMIT -M "segundo commit" - envia para o repositório local
+3. GIT REMOTE
+4. GIT PUSH -U ORIGIN MASTER
+5. ENTRAR COM O NOME DO USUÁRIO
+6. ENTRAR COM A SENHA DO USUÁRIO
